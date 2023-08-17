@@ -10,7 +10,12 @@
 //content
 
 about me
-Hello!, As a programmer, I specialized in the Web Development area. For the last 3 years, I have been developing Web applications using React.js, Laravel, Angular, Express, Django, and other web frameworks.Coding is my passion. One of the best parts of being a programmer is creating something that didn't exist before. And then you get control over an application, website, or whatever your creation is!
+Hello!, As a programmer, I specialized in the Web Development area. For the last 3 years, I have been developing Web applications using React.js, Laravel, Angular, Express, Django, and other web frameworks. Coding is my passion. One of the best parts of being a programmer is creating something that didn't exist before. And then you get control over an application, website, or whatever your creation is!
+
+
+Description of Web Dev
+Web development is the cornerstone of our digital world. It's what powers our online interactions, from business to education, and personal connections. Creating websites and applications isn't just about code – it's about building global platforms that transcend borders, facilitate innovation, and connect us all. 
+
 
 //What am I doing:
 

@@ -1,0 +1,95 @@
+@font-face {
+    font-family: "candlebright";
+    src: url(../font/candlebright.otf);
+  }
+
+
+header{
+    max-width: 100%;
+    max-height: 6.25rem;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color:white;
+    padding: 1.2rem;
+}
+
+
+/* logo design */
+
+  .logo{
+    color:white;
+    font-family: "candlebright",sans-serif;
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+  }
+
+
+.logo div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo .header-knight > img{
+    height: 3rem;
+    color: aliceblue;
+}
+
+/* nav bar */
+header .navBar{
+  display: flex;
+  align-items: center;
+  margin: 0 1rem;
+}
+
+.navBar ul{
+    display: flex;
+    gap:2rem;
+    margin: 0 .5rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+header li{
+    text-decoration: none;
+    list-style: none;
+    cursor: pointer;
+}
+
+.navBar li:hover{
+    color:#BD8D4C;
+    transition: .2s ease;
+}
+
+header button{
+    margin:0 1rem;
+    display: flex;
+    align-items: center;
+    color:white;
+    padding: 1rem 1.3rem;
+    background-color: transparent;
+    border-radius: 3rem;
+    border: solid .15rem #BD8D4C;
+    font-size: 1.1rem;
+}
+
+header button:hover{
+    color: #BD8D4C;
+    /* font-weight: bold; */
+    border-color: white;
+    transition: .2s ease;
+}
+
+header button img{
+    height: 1.3rem;
+    margin-right: 1rem;
+}
+
+header a{
+    text-decoration: none;
+    color: inherit;
+}

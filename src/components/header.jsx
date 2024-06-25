@@ -21,9 +21,9 @@ export default function Header( props ){
         </div>
         <div className="navBar">
             <ul className="nav-list">
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Skills</a></li>
-                <li><a href="#">Testimonials</a></li>
+                <li><a href="#">HOME</a></li>
+                <li><a href="#">SKILLS</a></li>
+                <li><a href="#">TESTIMONIALS</a></li>
             </ul>
         </div>
         <button className="contact-button">

@@ -1,0 +1,25 @@
+.contact-container{
+    background-image: url("../background/contact-background.jpg") ;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.contact-container .contact-sowrd{
+    
+}
+
+.contact-container .contact-sowrd{
+    flex: 1;
+}
+.contact-container .contact-sowrd img{
+    height: 100%;
+    text-align: center;
+    
+}
+

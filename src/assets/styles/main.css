@@ -14,12 +14,16 @@
     src: url(../font/texgyrechorus-mediumitalic.otf);
   }
 
+body,html{
+  height: 100%;
+}
 
 #root{
 
         font-family:"Playfair Display", sans-serif;
         font-optical-sizing: auto;
-        font-weight: 500;
+        font-weight: 400;
         font-style: normal;
         letter-spacing: .05rem;
+        min-height: 100%;
 }
